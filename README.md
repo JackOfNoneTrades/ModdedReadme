@@ -1,4 +1,4 @@
-# ReadmeGen
+# ModdedReadme
 
 Transforms GitHub READMEs for Modrinth/CurseForge by converting local image paths to raw GitHub URLs.
 
