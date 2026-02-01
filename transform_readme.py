@@ -244,8 +244,8 @@ def main():
         print(transformed)
     
     # Print info
-    print(f"\n# Repository: {owner}/{repo}", file=sys.stderr)
-    print(f"# Branch: {branch}", file=sys.stderr)
+    # print(f"\n# Repository: {owner}/{repo}", file=sys.stderr)
+    # print(f"# Branch: {branch}", file=sys.stderr)
 
 
 if __name__ == "__main__":
